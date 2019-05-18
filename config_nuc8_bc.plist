@@ -124,6 +124,11 @@
 		<key>Secure</key>
 		<false/>
 	</dict>
+	<key>BootGraphics</key>
+	<dict>
+		<key>UIScale</key>
+		<integer>2</integer>
+	</dict>
 	<key>CPU</key>
 	<dict>
 		<key>#FrequencyMHz</key>
