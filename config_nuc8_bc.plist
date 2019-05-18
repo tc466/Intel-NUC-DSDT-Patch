@@ -194,7 +194,7 @@
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>Scan</key>
 		<dict>
