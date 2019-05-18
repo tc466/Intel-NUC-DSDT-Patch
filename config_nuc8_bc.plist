@@ -109,8 +109,6 @@
 		<true/>
 		<key>Secure</key>
 		<false/>
-		<key>Timeout</key>
-		<integer>5</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
