@@ -159,6 +159,8 @@
 				<integer>1</integer>
 				<key>framebuffer-con1-3ea50000-alldata</key>
 				<data>AQUJAAAIAACHAQAA</data>
+				<key>framebuffer-con1-3ea50004-alldata</key>
+				<data>AQUJAAAIAADHAwAA</data>
 				<key>framebuffer-con1-59270000-alldata</key>
 				<data>AQUJAAAIAACHAQAA</data>
 			</dict>
