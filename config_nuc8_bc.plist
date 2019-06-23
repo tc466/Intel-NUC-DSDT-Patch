@@ -308,7 +308,7 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>ProductName</key>
-		<string>iMac16,2</string>
+		<string>Macmini8,1</string>
 		<key>Trust</key>
 		<true/>
 	</dict>
