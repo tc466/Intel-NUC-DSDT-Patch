@@ -146,23 +146,41 @@
 			<key>PciRoot(0)/Pci(0x02,0)</key>
 			<dict>
 				<key>#AAPL,ig-platform-id</key>
-				<data>AAAAAA==</data>
+				<data>BAClPg==</data>
 				<key>framebuffer-patch-enable</key>
+				<integer>1</integer>
+				<key>framebuffer-portcount</key>
+				<integer>2</integer>
+				<key>enable-hdmi20</key>
 				<integer>1</integer>
 				<key>framebuffer-con0-enable</key>
 				<integer>1</integer>
-				<key>framebuffer-con0-3e9b0007-alldata</key>
-				<data>AQUJAAAIAADHAwAA</data>
-				<key>framebuffer-con0-59120000-alldata</key>
-				<data>AQUJAAAIAACHAQAA</data>
+				<key>framebuffer-con0-index</key>
+				<integer>1</integer>
+				<key>framebuffer-con0-busid</key>
+				<integer>5</integer>
+				<key>framebuffer-con0-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-con0-flags</key>
+				<data>xwMAAA==</data>
 				<key>framebuffer-con1-enable</key>
 				<integer>1</integer>
-				<key>framebuffer-con1-3ea50000-alldata</key>
-				<data>AQUJAAAIAACHAQAA</data>
-				<key>framebuffer-con1-3ea50004-alldata</key>
-				<data>AQUJAAAIAADHAwAA</data>
-				<key>framebuffer-con1-59270000-alldata</key>
-				<data>AQUJAAAIAACHAQAA</data>
+				<key>framebuffer-con1-index</key>
+				<integer>2</integer>
+				<key>framebuffer-con1-busid</key>
+				<integer>4</integer>
+				<key>framebuffer-con2-enable</key>
+				<integer>1</integer>
+				<key>framebuffer-con2-index</key>
+				<data>/////w==</data>
+				<key>framebuffer-con2-busid</key>
+				<integer>0</integer>
+				<key>framebuffer-con2-pipe</key>
+				<integer>0</integer>
+				<key>framebuffer-con2-type</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con2-flags</key>
+				<data>IAAAAA==</data>
 			</dict>
 			<key>PciRoot(0)/Pci(0x1f,3)</key>
 			<dict>
