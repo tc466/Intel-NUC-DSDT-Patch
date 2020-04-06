@@ -119,6 +119,10 @@
 	<dict>
 		<key>Arguments</key>
 		<string>dart=0 -igfxnohdmi -cdfon lilucpu=10</string>
+		<key>DefaultVolume</key>
+		<string>LastBootedVolume</string>
+		<key>Timeout</key>
+		<integer>5</integer>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Secure</key>
